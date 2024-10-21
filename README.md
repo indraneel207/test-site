@@ -1,5 +1,5 @@
 
-# Test file
+# Test
 
 This is a test file to demonstrate markdown formatting. Below are some examples of markdown elements:
 
