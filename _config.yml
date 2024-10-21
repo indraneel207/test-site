@@ -2,8 +2,8 @@ title: Test site
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   This is a test site for learning Jekyll.
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://indraneel207.github.io"
+baseurl: "test-site" # the subpath of your site, e.g. /blog
+url: "https://indraneel207.github.io"
 
 # Build settings
 theme: minima
